@@ -8,6 +8,10 @@ export const HeaderSection = styled.header`
     display: flex;
     flex-direction: column;
     padding: 0;
+
+    @media (max-width: 430px) {
+        width: 300px;
+    } 
 `
 
 export const HeaderTitle = styled.h1`
