@@ -10,7 +10,7 @@ OBS.: Este repositório refere-se aos arquivos finais do projeto. Caso queira ve
 
 ### Aula
 
-Caso queira assistir a aula onde é ensinada a construir o restante do projeto, [clique aqui](https://youtube.com)
+Caso queira assistir a aula onde é ensinada a construir o restante do projeto, [clique aqui](https://www.youtube.com/watch?v=kqp1lNnv6K8)
 
 ### Licença
 
