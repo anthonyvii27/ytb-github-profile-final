@@ -15,6 +15,6 @@ const Routes = () => (
             <Route path="/repos" component={ Repos } />
         </Switch>
     </BRouter>
-);
+)
 
 export default Routes;

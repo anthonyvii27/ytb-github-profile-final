@@ -29,6 +29,26 @@ export const HeaderInputContainer = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
+
+    a {
+        width: 30px;
+        height: 30px;
+        border-radius: 15px;
+        border: none;
+        background: #FF7A00;
+        margin-left: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #FFF;
+        transition: ease .3s;
+
+        &:hover {
+            transform: scale(1.05);
+            transition: ease .3s;
+            cursor: pointer;
+        }
+    }
 `
 
 export const HeaderInput = styled.input`
